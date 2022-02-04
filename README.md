@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adarshmnair1999
-- 👀 I’m interested in Game
+- 👀 I’m interested in Games
 - 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
